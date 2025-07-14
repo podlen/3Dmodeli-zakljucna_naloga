@@ -1,8 +1,8 @@
-# Project Title
+# Določanje lokacije in sile udarca na plošči z uporabo nevronskih mrež
 
 ## Description
 
-This repository contains the 3D models and associated files for [Briefly describe your project/thesis and the purpose of the 3D-printed parts].
+This repository contains the 3D models for an experimental system designed to determine the location and force of impacts on a 3D-printed plate using machine (deep) learning. The system includes a 3D-printed plate equipped with four 3D-printed resistive sensors to measure dynamic structural response.
 
 ## Files Overview
 
@@ -12,8 +12,8 @@ This repository contains the 3D models and associated files for [Briefly describ
 
 ## Printing Instructions
 
-*   **Material:** [e.g., PLA, PETG]
-*   **Printer:** [e.g., Prusa i3 MK3S+, Ender 3]
+*   **Material:** PLA (for frame, board, and sensor attachment pegs), conductive TPU (for piezoresistive sensor element)
+*   **Printer:** [e.g., Prusa XL (for multi-material printing), Prusa i3 MK3S+, Ender 3]
 *   **Nozzle Diameter:** [e.g., 0.4mm]
 *   **Layer Height:** [e.g., 0.2mm]
 *   **Infill:** [e.g., 20% Rectilinear]
@@ -29,7 +29,7 @@ If you use these models in your work, please cite this repository. You can use t
 ```bibtex
 @misc{your_repo_name_year,
   author = {Your Name Last Name},
-  title = {Title of your project (e.g., 3D models for impact location determination on a plate)},
+  title = {Določanje lokacije in sile udarca na plošči z uporabo nevronskih mrež},
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
