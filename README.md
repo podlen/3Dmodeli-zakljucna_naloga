@@ -14,7 +14,7 @@ This repository contains the 3D models for an experimental system designed to de
 If you use these models in your work, please cite this repository. You can use the following BibTeX entry (please update with your actual username and repository name):
 
 ```bibtex
-@misc{your_repo_name_year,
+@misc{3Dmodeli-zakljucna_naloga_2025,
   author = {Enej Podlipnik},
   title = {Določanje lokacije in sile udarca na plošči z uporabo nevronskih mrež},
   year = {2025},
