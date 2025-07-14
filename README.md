@@ -17,7 +17,7 @@ If you use these models in your work, please cite this repository. You can use t
 @misc{your_repo_name_year,
   author = {Enej Podlipnik},
   title = {Določanje lokacije in sile udarca na plošči z uporabo nevronskih mrež},
-  year = {2024},
+  year = {2025},
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/your-username/your-repository-name}}
